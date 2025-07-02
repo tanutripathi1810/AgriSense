@@ -8,7 +8,7 @@ This project uses a **Random Forest Regressor** to predict agricultural yield (i
 
 You can view and simulate the sensor circuit for data collection here:
 
-  ![Tinkercad Circuit Screenshot](images/tinkercad_circuit.png)
+  ![Tinkercad Circuit Screenshot](tinkercad.png)
 
 🔗 [Tinkercad Circuit Simulation](https://www.tinkercad.com/things/2MGq35x2HQD-agrisense/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits)
 
