@@ -88,7 +88,6 @@ Deploy model to a Flask web app for real-time yield prediction
 
 Use XGBoost or ensemble models for better accuracy
 
-Collect real sensor values from Tinkercad via serial and log into a .CSV file
 
 ## 📬 Contact
 For questions, reach out via GitHub issues or email: [tripathitanu02@gmail.com]
